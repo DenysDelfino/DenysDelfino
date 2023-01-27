@@ -36,6 +36,8 @@ Eu sou, Dênys Lacerda Delfino, sou Desenvolvedor Front-End, estudando JavaScrip
  
  <a hfer="https://www.instagram.com/denys.lacerdadelfino.3/">
  <img alt="icone do instagram uma camera dentro do quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+ <br>
+ <p>Meu primeiro site responsivo <a href="https://denysdelfino.github.io/Easy-Shopping-responsivo-1/">Easy-shopping</a></p>Estudando pelo <a href="https://rodolfomori.com.br/devclub">DevClub</a>
  
  
 
