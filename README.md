@@ -1,6 +1,6 @@
 ### Hi there :computer: :iphone:
 <br>
-Eu sou, Dênys Lacerda Delfino, sou Desenvolvedor Front-End, estudante de JavaScript e React.
+Eu sou, Dênys Lacerda Delfino, sou Desenvolvedor Front-End, estudante de Full Stack.
 <br>
 <br>
 <strong>Linguagens<strong/>
