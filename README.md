@@ -29,17 +29,15 @@ Eu sou, Dênys Lacerda Delfino, sou Desenvolvedor Front-End, estudante de Full S
  <br>
  <i>Meus Contatos<i/>:smiley:
  <br>
- <a href="https://www.linkedin.com/in/denys-lacerda-delfino-6b6035250/">
+ <a href="https://www.linkedin.com/in/denys-lacerda/">
  <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
  <a/>
- <a href="https://web.facebook.com/denys.lacerdadelfino.3">
- <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Logo=Facebook"/>
- <a/>
+<a href="denyslacerda1990@gmail.com">denyslacerda1990@gmail.com
+  <a/>
  <br>
  <a href="https://wa.me/5511989351716">
  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="logo-whatsapp"/>
- <a Instagram href="https://www.instagram.com/denys.lacerdadelfino.3/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><a hfer="https://www.instagram.com/denys.lacerdadelfino.3/"></a>
+ 
  
  <br>
  <p>Meu primeiro site responsivo <a href="https://denysdelfino.github.io/Easy-Shopping-responsivo-1/">Easy-shopping</a></p>
