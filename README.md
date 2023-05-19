@@ -1,6 +1,6 @@
 ### Hi there :computer: :iphone:
 <br>
-Eu sou, Dênys Lacerda Delfino, sou Desenvolvedor Front-End, estudante de Full Stack.
+Eu sou, Dênys Lacerda Delfino, sou Desenvolvedor Front-End. - Futuro Desenvolvedor Full-Stack.
 <br>
 <br>
 <strong>Linguagens<strong/>
@@ -32,8 +32,8 @@ Eu sou, Dênys Lacerda Delfino, sou Desenvolvedor Front-End, estudante de Full S
  <a href="https://www.linkedin.com/in/denys-lacerda/">
  <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
  <a/>
-<a href="denyslacerda1990@gmail.com">denyslacerda1990@gmail.com
-  <a/>
+<a href="mailto:denyslacerda1990@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail"/>
+ <a/>
  <br>
  <a href="https://wa.me/5511989351716">
  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="logo-whatsapp"/>
