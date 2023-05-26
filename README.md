@@ -12,11 +12,7 @@ Eu sou, Dênys Lacerda Delfino, sou Desenvolvedor Front-End. - Futuro Desenvolve
 <br>
 <br>
  Estudando 
- <br>
- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
- <br>
- <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
- <br>
+  <br>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-Logo"/>
  <br>
  <br>
