@@ -1,20 +1,18 @@
-### Hi there :computer: :iphone:
+### Olá :computer: :iphone:
 <br>
-Eu sou, Dênys Lacerda Delfino, sou Desenvolvedor Front-End. - Futuro Desenvolvedor Full-Stack.
+Eu sou Dênys Lacerda Delfino, sou Desenvolvedor Front-End, estudando muito para me tornar um FullStack.
 <br>
+<p>Aqui estão as tecnologias aprendidas e com o tempo vou aprendendo mais.</p>
 <br>
-<strong>Linguagens<strong/>
+<strong>Tecnologias<strong/>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html-Logo"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css-Logo"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS-Logo"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-Logo"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS-Logo"/>
 <br>
-<br>
- Estudando 
-  <br>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-Logo"/>
- <br>
+ <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
  <br>
  Implantação de Serviços em Nuvem
  <br>
@@ -22,7 +20,9 @@ Eu sou, Dênys Lacerda Delfino, sou Desenvolvedor Front-End. - Futuro Desenvolve
  <br>
  <p>Certificação <a href="https://www.cloudskillsboost.google/public_profiles/9f409684-6660-4023-94a3-3623df8f3c84">Google Cloud Foundations</a></p>
  <br>
+  Meu <a href="https://denysdelfino.github.io/denyslacerda-delfino/">Portfólio</a>
  <br>
+  <br>
  <i>Meus Contatos<i/>:smiley:
  <br>
  <a href="https://www.linkedin.com/in/denys-lacerda/">
@@ -36,16 +36,9 @@ Eu sou, Dênys Lacerda Delfino, sou Desenvolvedor Front-End. - Futuro Desenvolve
  
  
  <br>
- <p>Meu primeiro site responsivo <a href="https://denysdelfino.github.io/Easy-Shopping-responsivo-1/">Easy-shopping</a></p>
+ <p>Meu primeiro projeto freelancer <a href="https://denysdelfino.github.io/conversor-taxa-pagseguro/">conversor-PagSeguro</a></p>
   <br>
-  <p>Meu primeiro projeto <a href="https://denysdelfino.github.io/ConversorDeMoedas.Js/">Conversor de Moedas</a>        
-   Tecnologias Utilizadas
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html-Logo"/>
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css-Logo"/>
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-Logo"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS-Logo"/>
- <br>
-  <p>Estudando pelo <a href="https://rodolfomori.com.br/devclub">DevClub</a></p>
+  <p>Estudando pela plataforma <a href="https://rodolfomori.com.br/devclub">DevClub</a></p>
  
  
 
