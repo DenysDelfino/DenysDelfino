@@ -1,6 +1,6 @@
 # Olá! :computer: :iphone:
 
-- 🔭 Olá, eu sou Dênys Lacerda Delfino, um Desenvolvedor Front-End, em constante aprendizado para me tornar um FullStack. Atualmente, estou atuando como Analista de Sistemas.
+- 🔭 Olá, eu sou Dênys Lacerda Delfino, um Desenvolvedor Front-End, em constante aprendizado para me tornar um FullStack. Atualmente, estou atuando como Auxiliar de Suporte de Software.
 
 - 📚 Aqui estão algumas das tecnologias que já aprendi e continuo aprendendo ao longo do tempo.
 
